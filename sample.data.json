@@ -1,0 +1,241 @@
+{
+    "result": {
+      "codResult": "0000",
+      "msgResult": "No hay error"
+    },
+    "items": [
+      {
+        "periodStartDate": "20\/06\/2020",
+        "periodEndDate": "20\/06\/2020",
+        "avgConsumption": "0,172",
+        "maxConsumption": "1,284",
+        "maxConsumptionDate": "20\/06\/2020",
+        "maxConsumptionHour": 6,
+        "minConsumption": "0,093",
+        "minConsumptionDate": "20\/06\/2020",
+        "minConsumptionHour": 16,
+        "totalConsumption": "4,127",
+        "consumptions": {
+          "count": 24,
+          "items": [
+            {
+              "hour": 1,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,104",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 2,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,110",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 3,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,114",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 4,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,103",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 5,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,096",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 6,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "1,284",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 7,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,548",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 8,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,098",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 9,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,104",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 10,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,096",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 11,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,106",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 12,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,169",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 13,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,094",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 14,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,102",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 15,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,103",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 16,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,093",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 17,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,103",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 18,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,098",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 19,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,100",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 20,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,103",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 21,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,096",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 22,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,101",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 23,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,104",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            },
+            {
+              "hour": 24,
+              "consumptionDate": "20\/06\/2020",
+              "consumptionValue": "0,098",
+              "realReading": "V",
+              "estimatedReading": "F",
+              "collecteWithGaps": "F",
+              "readingType": "R"
+            }
+          ]
+        }
+      }
+    ]
+  }
